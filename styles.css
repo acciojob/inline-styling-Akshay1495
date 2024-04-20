@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+body {
+    background-color: yellow;
+    text-align: center;
+}
+.flower-container {
+    margin-top: 20px;
+}
+.flower-container h1 {
+    font-size: 24px;
+    color: green;
+}
+.flower-container p {
+    font-size: 18px;
+    color: blue;
+}
